@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AuroraLegacyDownloader": {
+      "commandName": "Project",
+      "commandLineArgs": "https://raw.githubusercontent.com/AuroraLegacy/elements/master/AuroraLegacy.index"
+    }
+  }
+}
